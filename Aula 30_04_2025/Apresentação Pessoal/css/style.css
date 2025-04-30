@@ -13,8 +13,8 @@ h1 {
     border-radius: 10px;
     border-color: blueviolet;
     border: 5px solid blueviolet;
-    max-width: 600px; 
-    max-height: 550px
+    max-width: 500px; 
+    max-height: 450px
 }
 
 #img-gato{
@@ -27,8 +27,30 @@ h1 {
 
 #apresentacao{
     text-align: center;
-    margin-left: 60px;
-    margin-right: 60px;
+    margin-left: 360px;
+    margin-right: 360px;
+    text-align: justify;
+}
+
+#apresentacao-sobremim{
+    text-align: center;
+    margin-left: 230px;
+    margin-right: 230px;
+    text-align: justify;
+    background-color: blueviolet;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+#apresentacao-curiosidade{
+    text-align: center;
+    margin-left: 335px;
+    margin-right: 335px;
+    background-color: blueviolet;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
 }
 
 .imagens-meio-pagina {
